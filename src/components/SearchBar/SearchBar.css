@@ -1,0 +1,7 @@
+.BookList {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 120px 120px;
+    grid-column-gap: 7px;
+    grid-row-gap: 7px;
+}
